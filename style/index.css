@@ -1,0 +1,23 @@
+.dropdown-item:hover{
+    background-color: gray;
+
+}
+.navbar-brand:hover{
+ color: lightgray;
+}
+.navbar-brand{
+ color: white;
+
+}
+.nav-link{
+ color: white;
+
+}
+.nav-link:hover{
+    color: lightgray;;
+   
+}
+.nav-link .active{
+ color: white;
+
+}
